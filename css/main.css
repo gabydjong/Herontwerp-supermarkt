@@ -91,7 +91,7 @@ nav div{
   text-align: center;
 
 /* Background stijlen*/
-  background-image: url("groentje3.png");
+  background-image: url("../images/groentje3.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -280,7 +280,7 @@ ul {
 
 .content2{
   grid-area: content2;
-  padding: 0px 10px 0px 10px;
+
 }
 
 .side {
@@ -290,7 +290,6 @@ ul {
 
 .content3{
   grid-area:content3;
-  padding: 0px 10px 0px 10px;
 }
 
 .main-footer {

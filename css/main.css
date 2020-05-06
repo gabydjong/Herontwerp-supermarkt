@@ -153,6 +153,7 @@ p {
 h1{
   font-size: 20px;
   text-align: center;
+  margin-top: 20px;
 }
 
 h2{
@@ -286,6 +287,7 @@ ul {
 .side {
   grid-area: sidebar;
   padding: 0px 10px 0px 10px;
+  margin-bottom: 20px;
 }
 
 .content3{
@@ -299,7 +301,7 @@ ul {
   align-items: center;
   background-color: #E6E8A4;
   font-size: 14px;
-  margin-top: 14px;
+  margin-top: 20px;
   padding: 5px;
 }
 
@@ -330,9 +332,15 @@ ul {
       "footer   footer";
   }
 
+h2{
+  margin: 20px 0px 0px 0px;
+}
+
 .side{
   background-color: #E6E8A4;
+  margin-bottom: 0px;
 }
+
 
 /* Cirkel vormige afbeelding wordt groter*/
 .eten{
